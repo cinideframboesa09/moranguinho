@@ -1,0 +1,96 @@
+body {
+    color: greenyellow;
+    background: rgb(255, 70, 86);
+    margin: 0px;
+    font-family: "Saira Condensed", sans-serif;
+    margin-bottom: 100px;
+    }
+    
+    header{
+        border-bottom: solid 2px black;
+        padding: 20px;
+        font-size   : 35px;
+    }
+    .mylon{
+        background: green;
+     padding-bottom: 80px; 
+        padding-top: 60px;
+        display: flex;
+        justify-content: center;
+    
+    }
+    .chamada-texto{ 
+        margin-right: 40px;
+    }
+    h1{
+        color: lightgreen;
+        font-size: 40px;
+    }
+    p{
+        color: lightgreen;
+        font-size: 45px;
+    }
+    
+    .builds{
+        display: flex;
+        overflow-x: auto;
+        gap: 15px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    .thresh{
+        padding-left: 20px;
+        padding-right: 20px ;
+     margin-top: 50px;
+    }
+    .builds img {
+        opacity: 0.5; 
+        height: 250px;
+        
+    }
+    .builds img:hover {
+        opacity: 1.0;
+        border: 2px solid darkgreen;
+    }
+    .terceira{
+        padding-left: 20px;
+        padding-right: 20px ;
+     margin-top: 50px;
+    }
+    h3{
+        font-size: 40px;
+    }
+    .sinergia{
+        display: flex;
+        overflow:auto;
+        gap: 15px;
+    }
+    .sinergia img{
+        justify-content: center;
+        opacity: 0.5;
+        height: 250px;
+    }
+    .sinergia img:hover{
+        opacity:1.0;
+    }
+    h4{
+        margin: 20px;
+        color: greenyellow;
+        font-size: 40px;
+    }
+    .temp {
+        margin: 20px;
+        display: flex;
+        overflow: auto;
+        gap: 15px;
+    
+    }
+    .temp img{
+        justify-content: center;
+        opacity: 0.5;
+        height: 250px;
+    }
+    .temp img:hover{
+        opacity:1.0 ;
+    }
